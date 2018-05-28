@@ -1,9 +1,7 @@
-package problem24;
+package problem024;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
-import static java.lang.Math.floor;
 import static java.lang.Math.pow;
 
 public class Problem24_Main {
